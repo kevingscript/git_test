@@ -1,3 +1,3 @@
 # git_test
-My Odin Project Repo.
+My Odin Project Repository.
 Hello Odin!
